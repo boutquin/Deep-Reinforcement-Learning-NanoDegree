@@ -34,7 +34,7 @@ Exercices and assignments from Udacity's [Deep Reinforcement Learning Nanodegree
 
 To set up your python environment to run the code in this repository, follow the instructions below.
 
-1. Create (and activate) a new environment with Python 3.6.
+1. Create (and activate) a new environment with Python 3.6, either using Anaconda Navigtor or with:
 
 	- __Linux__ or __Mac__: 
 	```bash
@@ -53,8 +53,8 @@ To set up your python environment to run the code in this repository, follow the
 	
 3. Clone the repository (if you haven't already!), and navigate to the `python/` folder.  Then, install several dependencies.
 ```bash
-git clone https://github.com/udacity/deep-reinforcement-learning.git
-cd deep-reinforcement-learning/python
+git clone https://github.com/boutquin/Deep-Reinforcement-Learning-NanoDegree.git
+cd Deep-Reinforcement-Learning-NanoDegree/python
 pip install .
 ```
 

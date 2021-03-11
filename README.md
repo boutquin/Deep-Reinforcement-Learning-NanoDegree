@@ -8,7 +8,7 @@
 Exercices and assignments from Udacity's [Deep Reinforcement Learning Nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893) program.
 
 ## Core Exercices
-+ - [ ] **01. Monte Carlo Control** 
++ - [ ] **01. [Monte Carlo Control](https://github.com/boutquin/Deep-Reinforcement-Learning-NanoDegree/tree/main/01-monte-carlo)**: Implement Monte Carlo methods for prediction and control. 
 + - [ ] **02. Temporal Difference Control**
 + - [ ] **03. Discretization**
 + - [ ] **04. Tile Coding**

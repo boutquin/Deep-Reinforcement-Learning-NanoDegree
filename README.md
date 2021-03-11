@@ -7,22 +7,23 @@
 
 Exercices and assignments from Udacity's [Deep Reinforcement Learning Nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893) program.
 
-## Exercices
-+ - [ ] **01. Dynamic Programming**
-+ - [ ] **02. Monte Carlo Control** 
-+ - [ ] **03. Temporal Difference Control**
-+ - [ ] **04. Discretization**
-+ - [ ] **05. Tile Coding**
-+ - [ ] **06. Deep Q-Networks**
-+ - [ ] **07. Robotics**
-+ - [ ] **08. Hill Climbing**
-+ - [ ] **09. Cross Entropy**
-+ - [ ] **10. REINFORCE**
-+ - [ ] **11. Proximal Policy Optimization (PPO)**
-+ - [ ] **12. Deep Deterministic Policy Gradients (DDPG)**
-+ - [ ] **13. Multi-Agent DDPG**
-+ - [ ] **14. AlphaZero**
+## Core Exercices
++ - [ ] **01. Monte Carlo Control** 
++ - [ ] **02. Temporal Difference Control**
++ - [ ] **03. Discretization**
++ - [ ] **04. Tile Coding**
++ - [ ] **05. Deep Q-Networks**
++ - [ ] **06. Robotics**
++ - [ ] **07. Hill Climbing**
++ - [ ] **08. Cross Entropy**
++ - [ ] **09. REINFORCE**
++ - [ ] **10. Proximal Policy Optimization (PPO)**
++ - [ ] **11. Deep Deterministic Policy Gradients (DDPG)**
++ - [ ] **12. Multi-Agent DDPG**
++ - [ ] **13. AlphaZero**
 
+## Extra-Curricular Exercices
++ - [ ] **E01. Dynamic Programming**
 
 ## Labs and Graded Projects
 + - [ ] **P0. Taxi** - general RL.

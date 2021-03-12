@@ -7,8 +7,14 @@
 
 Exercices and assignments from Udacity's [Deep Reinforcement Learning Nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893) program.
 
+### About the Deep Reinforcement Learning Nanodegree
+
+The [Deep Reinforcement Learning Nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893) program teaches cutting-edge deep reinforcement learning algorithms—from Deep Q-Networks (DQN) to Deep Deterministic Policy Gradients (DDPG). These concepts are applied to train agents to walk, drive, or perform other complex tasks, and build a robust portfolio of deep reinforcement learning projects.
+
+See also: Udacity's official github repo of [DRLND](https://github.com/udacity/deep-reinforcement-learning).
+
 ## Core Exercices
-+ - [ ] **01. [Monte Carlo Control](https://github.com/boutquin/Deep-Reinforcement-Learning-NanoDegree/tree/main/01-monte-carlo)**: Implement Monte Carlo methods for prediction and control. 
++ - [X] **01. [Monte Carlo Control](https://github.com/boutquin/Deep-Reinforcement-Learning-NanoDegree/tree/main/01-monte-carlo)**: Implement Monte Carlo methods for prediction and control. 
 + - [ ] **02. Temporal Difference Control**
 + - [ ] **03. Discretization**
 + - [ ] **04. Tile Coding**
